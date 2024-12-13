@@ -14,6 +14,6 @@ Documentation and Files for creating a AMR Battery Temperature Sensor Device
 *Recommended to use Portable Power Bank to power ESP32 instead of Battery and Battery Charger*
 
 ## CAD Model
-
-![Assembly 1](https://github.com/user-attachments/assets/f8b8a670-a160-4289-8e43-6af67bd7b373 =400x400)
+<img src="https://github.com/user-attachments/assets/f8b8a670-a160-4289-8e43-6af67bd7b373" width=50% height=50%>
+![Assembly 1](https://github.com/user-attachments/assets/f8b8a670-a160-4289-8e43-6af67bd7b373 | width=400)
 ![Assembly 2](https://github.com/user-attachments/assets/7863c829-ecfa-4fd5-979a-69cad4f1ef58 =400x400
