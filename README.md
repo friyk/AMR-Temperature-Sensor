@@ -26,7 +26,7 @@ Included files: CAD STL and 3MF for housing, Arduino IDE C++ Code for ESP32S3
 <img src="https://github.com/user-attachments/assets/fe76156f-b734-413a-b017-fe020df55ecc" width=50% height=50%>
 <img src="https://github.com/user-attachments/assets/0199f3c6-25a4-4015-88a7-51510e8970f1" width=50% height=50%>
 
-<video src='https://github.com/user-attachments/assets/e35362a2-029b-428d-8c04-b8742939f7db' width=180/>
+<video src='https://github.com/user-attachments/assets/e35362a2-029b-428d-8c04-b8742939f7db'>
 
 
 
