@@ -16,3 +16,5 @@ Documentation and Files for creating a AMR Battery Temperature Sensor Device
 ## CAD Model
 <img src="https://github.com/user-attachments/assets/f8b8a670-a160-4289-8e43-6af67bd7b373" width=50% height=50%>
 <img src="https://github.com/user-attachments/assets/7863c829-ecfa-4fd5-979a-69cad4f1ef58" width=50% height=50%>
+
+## Assembly Images
