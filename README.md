@@ -1,5 +1,6 @@
 # Temperature-Sensor
 Documentation and Files for creating a AMR Battery Temperature Sensor Device
+Included files: CAD STL and 3MF for housing, Arduino IDE C++ Code for ESP32S3
 
 ## Components
 | Component Name   | Model Used |
